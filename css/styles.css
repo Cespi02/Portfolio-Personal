@@ -36,6 +36,11 @@ header {
     padding: 0.5rem;
 }
 
+.navbar-menu a:hover {
+    background-color: #6691FC;
+    transition: 0.3s;
+}
+
 .navbar-menu a {
     color: white;
     text-decoration: none;
